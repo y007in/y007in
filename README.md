@@ -1,6 +1,5 @@
 <div align=cneter><h1>Hello!</h1></div>
 
-<hr/>
 
 <div align=center>💻Studying💻</div>
 <br>
@@ -12,6 +11,6 @@
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
 </div>
 
-<div align=center>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=y007in&layout=compact)](https://github.com/y007in/github-readme-stats)
-</div>
+
